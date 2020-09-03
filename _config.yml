@@ -27,6 +27,7 @@ github_username: VillaNeal95
 
 # Build settings
 theme: Minima
+  skin: dark
 plugins:
   - jekyll-feed
 
