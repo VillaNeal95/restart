@@ -23,10 +23,10 @@ email: nealmakh@hotmail.co.uk
 description: This blog details my experience of The AWS Re/Start Programme! Feel free to contact me if you want think I can be of assistance!
 baseurl: "restart" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: villaneal95.github.io
+github_username: VillaNeal95
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: Minima
 plugins:
   - jekyll-feed
 
