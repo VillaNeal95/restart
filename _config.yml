@@ -20,7 +20,7 @@
 
 title: AWS Re/Start - My Journey Into The Cloud And Beyond
 email: nealmakh@hotmail.co.uk
-description: This blog details my experience of The AWS Re/Start Programme! Feel free to contact me if you want think I can be of assistance!
+description: This blog details my experience of The AWS Re/Start Programme! Feel free to contact me if you think I can be of assistance!
 baseurl: "restart" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: VillaNeal95
