@@ -6,6 +6,8 @@ permalink: /about/
 
 I am a recent graduate of The inaugural AWS Re/Start Birmingham Cohort. AWS Re/Start is a 12 week, full-time, intensive introduction to the world of Cloud Computing, and is designed to introduce those from diverse and/or non-technical backgrounds to the core concepts of AWS, giving them a solid foundation on which to build a career as a Cloud Operations Engineer. You can find out more about the programme here [https://uk.generation.org/birmingham/aws-restart/](https://uk.generation.org/birmingham/aws-restart/)
 
+I have gained an understanding of Cloud Concepts, Linux, Bash Scripting, Python, Networking, Databases, Version Control, Software Development Lifecycle and Continuous Integration and Continuous Deployment. I have cemented my understanding via practical labs, which involved provisioning and configuring EC2 Instances, VPC's, Databases, Firewalls, NACL's and IAM groups & Policies. 
+
 outside of the cloud, I have a range of interests, but am a huge fan of The mighty Aston Villa, and hold a season ticket! I also enjoy going on long walks and hikes, and have increased the frequency of these in an attempt to get fit! I also enjoy helping other people and one of the reasons for creating this blog was to try to give potential participants of AWS Re/Start an insight and taster of the things which are studied, and I chose to do this because I found it difficult to find information prior to starting the course. 
 
 ### What I can Bring To The Table
